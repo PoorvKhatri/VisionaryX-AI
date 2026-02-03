@@ -118,7 +118,7 @@ This allows the system to explain symptoms in a human-readable form.
 
 🚀 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/PoorvKhatri/VisionaryX-AI
 cd Disease_Agent_Project
 
 2. Create Virtual Environment
